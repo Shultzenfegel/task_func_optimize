@@ -1,4 +1,4 @@
-module task_optimize_my_solution
+module github.com/shultzenfegel/task_func_optimize
 
 go 1.18
 
